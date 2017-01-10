@@ -37,14 +37,18 @@ Please write a logic that is capable to parse shopping carts like the one above 
 
 Expected result in case of the given list and prices: 51.95 EUR
 
-## User story 4 - *Action 3 for 2*
-It turned out that there is a 3 for 2 action on orange juice. Every third piece of juice you buy is for free.
+## User story 4 - *Sale 3 for 2*
+It turned out that there is 3 for 2 sale on orange juice. Every third piece of juice you buy is for free.
 Please enable the list of items that have 3 for 2 action and create discounted price next to total price:
 * orange juice
 
 Total price: 51.95 EUR - Discounted price: 50.45 EUR
 
 ## User story 5 - *Percentage discount*
+Please enable percentage discount on pasta and apply 10% discount for every sold piece.
+* pasta - 10%
+
+Total price: 51.95 EUR - Discounted price: 49,97 EUR (Sale 3 for 2 + 10% discount)
 
 ## User story 6 - *Bigger and smaller*
 Our boss initiated to have new type of quantities in the customers' shopping carts. I'm sorry, I really do.

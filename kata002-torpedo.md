@@ -1,0 +1,1 @@
+# Kata 002 - Torpedo
