@@ -63,6 +63,10 @@ Please convert the quantities based on the following list:
 * package - 5 pieces
 * kg - 1000 g
 
-Finally please calculate the total price of the new list. It should be 176.45 EUR
+Finally please calculate the prices of the new list. Total price should be 176.45 EUR. Discounted price should be: 176.21 EUR
 
 ## User story 7 - *Currency exchange*
+
+Please enable customers to pay in other currencies such as dollar or pound. Apply the following exchange rate list on shopping carts and display the prices in all available currencies.
+* EUR 1 - USD 1.06
+* EUR 1 - GBP 0.87
