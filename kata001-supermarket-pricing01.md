@@ -37,4 +37,5 @@ Please write a logic that is capable to parse shopping carts like the one above 
 
 Expected result in case of the given list and prices: 51.95 EUR
 
-[Pricing in a supermarket - Next Page](kata001-supermarket-pricing02.md)
+[Next Page](kata001-supermarket-pricing02.md) |
+--------------------------------------------- |
