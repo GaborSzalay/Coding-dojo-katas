@@ -13,5 +13,5 @@ Please enable percentage discount on pasta and apply 10% discount for every sold
 
 Total price: 51.95 EUR - Discounted price: 49,97 EUR (Sale 3 for 2 + 10% discount)
 
-[Previous Page](kata001-supermarket-pricing01.md) | [Next Page](kata001-supermarket-pricing01.md)
+[Previous Page](kata001-supermarket-pricing01.md) | [Next Page](kata001-supermarket-pricing03.md)
 ------------------------------------------------- | ---------------------------------------------
